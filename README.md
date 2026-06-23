@@ -115,7 +115,7 @@ Si tenés [Engram](https://github.com/nicholasgriffintn/engram) configurado como
 
 - Las auditorías previas se buscan automáticamente para comparar evolución
 - Los artículos de la Ley 21.719 se pre-cachean para auditorías más rápidas
-- Los resultados se almacenan para追踪abilidad
+- Los resultados se almacenan para Trabilidad
 
 Si no tenés Engram, el skill funciona igual, pero sin comparativa entre auditorías.
 
